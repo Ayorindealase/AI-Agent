@@ -1,0 +1,54 @@
+2025-07-12 12:52:56,376 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-12 12:52:56,376 - INFO - 
+==================================================
+2025-07-12 12:52:56,376 - INFO - 🔄 Trading Cycle #1
+2025-07-12 12:52:56,377 - INFO - ==================================================
+2025-07-12 12:52:56,377 - INFO - 🤖 Starting trading cycle...
+2025-07-12 12:52:58,555 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 12:53:02,300 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 12:53:04,488 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 12:53:06,795 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 12:53:09,010 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 12:53:10,059 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-12 12:53:10,060 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-12 12:54:23,186 - INFO - 🛑 Trading bot stopped by user
+2025-07-12 13:01:46,769 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-12 13:01:46,769 - INFO - 
+==================================================
+2025-07-12 13:01:46,769 - INFO - 🔄 Trading Cycle #1
+2025-07-12 13:01:46,769 - INFO - ==================================================
+2025-07-12 13:01:46,769 - INFO - 🤖 Starting trading cycle...
+2025-07-12 13:01:48,812 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:01:50,941 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:01:53,133 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:01:55,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:01:57,598 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:01:57,769 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-12 13:01:57,769 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-12 13:05:19,270 - INFO - 🛑 Trading bot stopped by user
+2025-07-12 13:05:23,045 - INFO - 🚀 Starting autonomous trading agent (interval: 30 minutes)
+2025-07-12 13:05:23,045 - INFO - 
+==================================================
+2025-07-12 13:05:23,045 - INFO - 🔄 Trading Cycle #1
+2025-07-12 13:05:23,045 - INFO - ==================================================
+2025-07-12 13:05:23,046 - INFO - 🤖 Starting trading cycle...
+2025-07-12 13:05:24,983 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:05:27,642 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:05:30,225 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:05:33,120 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:05:36,000 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:05:36,194 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-12 13:05:36,195 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-12 13:55:36,532 - INFO - 
+==================================================
+2025-07-12 13:55:36,550 - INFO - 🔄 Trading Cycle #2
+2025-07-12 13:55:36,550 - INFO - ==================================================
+2025-07-12 13:55:36,550 - INFO - 🤖 Starting trading cycle...
+2025-07-12 13:55:38,638 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:55:42,168 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:55:44,999 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:55:48,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:55:51,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 13:55:51,192 - INFO - Cycle result: Agent stopped due to iteration limit or time limit.
+2025-07-12 13:55:51,193 - INFO - ⏱️ Waiting 30 minutes until next cycle...
+2025-07-12 14:03:39,952 - INFO - 🛑 Trading bot stopped by user
